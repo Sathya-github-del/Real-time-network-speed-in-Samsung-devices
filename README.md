@@ -10,9 +10,7 @@ Rooted Samsung phone
 
  Thanks to [XDA Forums](https://xdaforums.com/t/decrypt-decode-note-8-omc-csc-files.3770940/) for helping me to understand how to decode the cscfeature.xml file. 
 
- Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder) for the tool.
-
- Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder/releases) for the jar file.
+ Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder) for the tool and jar file.
 
 # Follow the steps
 
