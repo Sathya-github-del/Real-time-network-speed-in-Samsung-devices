@@ -3,7 +3,7 @@ Enable real-time-network-speed in samsung devices
 
 Requirements:
 Rooted Samsung phone
-- In my case I have rooted Samsung galaxy A04e device
+- In my case I have rooted Samsung galaxy A04e device(Android 13)
 - CS(Common Sense)
 
  Thanks to [XDA Forums](https://xdaforums.com/t/where-is-the-csc-omc-folder-now-with-cscfeature-xml-file.3795767/) for helping me to locate the cscfeature.xml file.
