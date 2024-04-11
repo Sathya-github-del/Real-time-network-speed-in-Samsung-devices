@@ -12,7 +12,7 @@ Rooted Samsung phone
 
  Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder) for the tool.
 
- Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder/releases) for the jar file
+ Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder/releases) for the jar file.
 
 # Follow the steps
 
@@ -23,7 +23,7 @@ Rooted Samsung phone
 
    java -jar omc-decoder.jar -i cscfeature.xml -o cscfeature_decoded.xml
    
-7.**Edit the decoded file**: Open cscfeature_decoded.xml in a text editor like Notepad++ and add the line 
+7.**Edit the decoded file**: Open cscfeature_decoded.xml in a text editor like Notepad++ and add the line: 
 
    <CscFeature_Setting_SupportRealTimeNetworkSpeed>TRUE</CscFeature_Setting_SupportRealTimeNetworkSpeed> 
 
