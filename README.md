@@ -17,7 +17,7 @@ Rooted Samsung phone
 # Follow the steps
 
 1. **Locate the CSC file**: Find the `cscfeature.xml` file on your Samsung device. In my case, it was found in `Optics/configs/carriers/INS/conf/system/cscfeature.xml`. Copy it to your PC.
-2. **Download or Clone the above repository**: Download or clone the repository containing the necessary files.
+2. **Download or Clone this repository**: Download or clone this repository containing the necessary files.
 3. **Open Terminal and locate the cloned repo**: Navigate to the directory where you cloned the repository and place the `cscfeature.xml` file there.
 4. **Decode CSC file**: Use the following command to decode the cscfeature.xml file:
 
