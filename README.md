@@ -12,6 +12,8 @@ Rooted Samsung phone
 
  Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder) for the tool and jar file.
 
+Note:- This working in all CSC.
+
 # Follow the steps
 
 1. **Locate the CSC file**: Find the `cscfeature.xml` file on your Samsung device. In my case, it was found in `Optics/configs/carriers/INS/conf/system/cscfeature.xml`. Copy it to your PC.
