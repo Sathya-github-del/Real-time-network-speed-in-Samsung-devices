@@ -1,7 +1,7 @@
 # Real-time-network-speed-in-Samsung-devices
 Enable real-time-network-speed in samsung devices
 
-Requirements:
+**Requirements:**
 Rooted Samsung phone
 - In my case I have rooted Samsung galaxy A04e device(Android 13)
 - CS(Common Sense)
@@ -12,7 +12,7 @@ Rooted Samsung phone
 
  Thanks to [GitHub](https://github.com/fei-ke/OmcTextDecoder) for the tool and jar file.
 
-Note:- This working in all CSC.
+**Note:-** This working in all CSC.
 
 # Follow the steps
 
@@ -35,7 +35,7 @@ Note:- This working in all CSC.
 
 11. **Reboot device**: After replacing the CSC file, reboot your device.
 
-Enable the feature: Go to Settings -> Notifications -> Advance Settings -> Show network speed in real time to enable the feature.
+**Enable the feature:** Go to Settings -> Notifications -> Advance Settings -> Show network speed in real time to enable the feature.
 
 
 
